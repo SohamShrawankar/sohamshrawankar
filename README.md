@@ -55,7 +55,7 @@
 
 <h2 align="center" style="color: #5e81ac;">📈 GitHub Stats</h2>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sohamshrawankar&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Soham's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamshrawankar&theme=nord&hide_border=true" alt="Soham's GitHub Streak" width="48%" />
 </div>
@@ -66,6 +66,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    
     <div style="background: #3b4252; padding: 15px; border-radius: 10px; width: 200px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
       <a href="mailto:sohamshrawankar@gmail.com" style="text-decoration: none; color: inherit;">
         <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/>
@@ -89,11 +90,7 @@
         <p>Follow my updates</p>
       </a>
     </div>
-  </div>
-</div>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
     <div style="background: #3b4252; padding: 15px; border-radius: 10px; width: 200px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
       <a href="https://sohamshrawankar.github.io/portfolio/" style="text-decoration: none; color: inherit;">
         <img src="https://img.icons8.com/color/48/000000/portfolio.png" width="40"/>
@@ -121,5 +118,5 @@
 ---
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w4e7c7e5a7b7m6j7d7i7s7j7q&cover_image=true&theme=november&bar_color=5e81ac&bar_color_cover=true" alt="Spotify Playing" width="50%"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=november&bar_color=5e81ac&bar_color_cover=true" alt="Spotify Playing" width="50%"/>
 </div>
