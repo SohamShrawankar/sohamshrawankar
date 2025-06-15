@@ -1,84 +1,117 @@
-<h1 align="center">Hey 👋 What's Up? I'm Soham Shrawankar</h1>
+<h1 align="center">👋 Hey There! I'm <span style="color: #4dabf7;">Soham Shrawankar</span></h1>
 
-###
-
-<h3 align="center">🚀 AI Developer | Full Stack Enthusiast | Creative Problem Solver</h3>
+<h3 align="center" style="color: #748ffc;">🤖 AI Developer | 💻 Full Stack Enthusiast | 🎨 Creative Problem Solver</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python" title="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++" title="C++" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" title="React" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" title="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5" title="HTML5" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3" title="CSS3" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch" title="PyTorch" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow" title="TensorFlow" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma" title="Figma" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://linkedin.com/in/soham-shrawankar">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="https://instagram.com/soham_shrawankar">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
   <a href="mailto:sohamshrawankar@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://leetcode.com/sohamshrawankar">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" />
   </a>
 </div>
 
 ###
 
-<h3 align="center">📊 GitHub Stats</h3>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sohamshrawankar&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=sohamshrawankar&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamshrawankar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamshrawankar&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ###
 
-<h3 align="center">🌱 Current Focus</h3>
-<p align="center">
-  Building <b>DeepShield</b> - AI cybersecurity solution | Developing facial recognition systems | Mastering React.js and Python optimization
-</p>
+<h2 align="center" style="color: #4dabf7;">🌟 Current Focus</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamshrawankar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<div align="center" style="background-color: #1A1B27; padding: 15px; border-radius: 10px; max-width: 800px; margin: 0 auto;">
+  <p>🔧 Building <b>DeepShield</b> - Next-gen AI cybersecurity solution</p>
+  <p>🧠 Developing facial recognition systems with PyTorch</p>
+  <p>⚡ Mastering React.js and Python optimization techniques</p>
+  <p>🎨 Learning UI/UX design principles</p>
 </div>
 
 ###
 
-<h3 align="center">💻 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/SohamShrawankar/DeepShield"><b>DeepShield</b></a> - AI-powered security framework<br>
-  <a href="https://github.com/SohamShrawankar/Attendance_Management_System"><b>Attendance System</b></a> - Facial recognition attendance tracker<br>
-  <a href="https://sohamshrawankar.github.io/portfolio/"><b>Portfolio</b></a> - Interactive developer portfolio
-</p>
+<h2 align="center" style="color: #4dabf7;">🚀 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/SohamShrawankar/DeepShield">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamshrawankar&repo=DeepShield&theme=radical" alt="DeepShield" width="45%" />
+  </a>
+  <a href="https://github.com/SohamShrawankar/Attendance_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamshrawankar&repo=Attendance_Management_System&theme=radical" alt="Attendance System" width="45%" />
+  </a>
+</div>
 
 ###
 
-<h3 align="center">📫 How to reach me</h3>
-<p align="center">
-  <a href="mailto:sohamshrawankar@gmail.com">sohamshrawankar@gmail.com</a> | 
-  <a href="https://sohamshrawankar.github.io/portfolio/">Portfolio Website</a> | 
-  <a href="https://drive.google.com/file/d/178myCYFgpvhlg5SyN__K9OBvVEeVOD4X/view?usp=sharing">My Resume</a>
-</p>
+<h2 align="center" style="color: #4dabf7;">📫 How to Reach Me</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <div style="background-color: #1A1B27; padding: 15px; border-radius: 10px; height: 100%;">
+          <a href="mailto:sohamshrawankar@gmail.com">
+            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" /><br>
+            <b>Email</b><br>
+            sohamshrawankar@gmail.com
+          </a>
+        </div>
+      </td>
+      <td align="center" width="200">
+        <div style="background-color: #1A1B27; padding: 15px; border-radius: 10px; height: 100%;">
+          <a href="https://sohamshrawankar.github.io/portfolio/">
+            <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" /><br>
+            <b>Portfolio</b><br>
+            View my work
+          </a>
+        </div>
+      </td>
+      <td align="center" width="200">
+        <div style="background-color: #1A1B27; padding: 15px; border-radius: 10px; height: 100%;">
+          <a href="https://drive.google.com/file/d/178myCYFgpvhlg5SyN__K9OBvVEeVOD4X/view?usp=sharing">
+            <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="40" /><br>
+            <b>Resume</b><br>
+            Download PDF
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamshrawankar&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
