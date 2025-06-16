@@ -114,9 +114,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamshrawankar&theme=nord&hide_border=true&area=true&custom_title=My%20Coding%20Activity" alt="Activity Graph" width="90%"/>
 </div>
-
----
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=november&bar_color=5e81ac&bar_color_cover=true" alt="Spotify Playing" width="50%"/>
-</div>
