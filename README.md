@@ -90,14 +90,12 @@ Other AI/ML and web development projects
 
 ---
 
-## 📄 Resume & Portfolio
+## 📄 Resume 
 <div align="center">
   <a href="https://drive.google.com/file/d/178myCYFgpvhlg5SyN__K9OBvVEeVOD4X/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://sohamshrawankar.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_My_Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+
 </div>
 
 </div>
