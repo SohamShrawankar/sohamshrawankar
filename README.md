@@ -23,7 +23,7 @@
 ## 🔭 Current Projects
 
 **DeepShield** - AI-powered security solution  
-**Attendance Management System** - Facial recognition attendance tracker  
+**Attendance Management System** - Qr code based attendance scanner .  
 <a href="https://sohamshrawankar.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
 </a>
