@@ -24,7 +24,9 @@
 
 **DeepShield** - AI-powered security solution  
 **Attendance Management System** - Facial recognition attendance tracker  
-[View All Projects](https://sohamshrawankar.github.io/portfolio/)
+<a href="https://sohamshrawankar.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
 
 ---
 
@@ -38,7 +40,9 @@
 
 ## 🤝 Collaboration
 Looking to collaborate on:  
-[Attendance Management System](https://github.com/SohamShrawankar/Attendance_Management_System)  
+<a href="https://github.com/SohamShrawankar/Attendance_Management_System" target="_blank">
+  <img src="https://img.shields.io/badge/Attendance_System-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Attendance System" />
+</a>  
 Other AI/ML and web development projects
 
 ---
@@ -86,7 +90,14 @@ Other AI/ML and web development projects
 
 ---
 
-## 📄 Resume
-[View My Resume](https://drive.google.com/file/d/178myCYFgpvhlg5SyN__K9OBvVEeVOD4X/view?usp=sharing)
+## 📄 Resume & Portfolio
+<div align="center">
+  <a href="https://drive.google.com/file/d/178myCYFgpvhlg5SyN__K9OBvVEeVOD4X/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://sohamshrawankar.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 </div>
