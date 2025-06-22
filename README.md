@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Soham Shrawankar
 
-### 🚀 A 19-year-old developer blending AI, code, and design into real-world solutions
+### 🚀 A 20-year-old developer blending AI, code, and design into real-world solutions
 
 ---
 
