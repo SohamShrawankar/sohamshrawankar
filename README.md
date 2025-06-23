@@ -31,9 +31,9 @@
 ---
 
 ## 🌱 Currently Learning
-- React.js
+- Javascript and React.js
 - Python optimization
-- Machine learning with PyTorch
+- Machine learning .
 - UI/UX design principles
 
 ---
