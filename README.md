@@ -92,9 +92,10 @@ Other AI/ML and web development projects
 
 ## 📄 Resume 
 <div align="center">
-  <a href="[https://drive.google.com/file/d/178myCYFgpvhlg5SyN__K9OBvVEeVOD4X/view?usp=sharing](https://drive.google.com/file/d/1DDhaQJ0tm0jsvfdBIDS-r6gMDXSeFN4L/view?usp=sharing](https://drive.google.com/file/d/1DDhaQJ0tm0jsvfdBIDS-r6gMDXSeFN4L/view?usp=sharing)" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  <a href="https://drive.google.com/file/d/1DDhaQJ0tm0jsvfdBIDS-r6gMDXSeFN4L/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
+</div>
 
 </div>
 
