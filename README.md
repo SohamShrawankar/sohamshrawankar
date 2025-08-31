@@ -1,20 +1,9 @@
 <div align="center">
-  
-# <span style="display: inline-block; overflow: hidden; border-right: .15em solid orange; white-space: nowrap; letter-spacing: .15em; animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">👋 Hi, I'm Soham Shrawankar</span>
+
+# <span class="typing-effect">👋 Hi, I'm Soham Shrawankar</span>
 
 ### 🚀 A 20-year-old developer blending AI, code, and design into real-world solutions
 
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange; }
-  }
-</style>
 ---
 
 <p align="center">
@@ -107,4 +96,25 @@ Other AI/ML and web development projects
 
 </div>
 
-</div>
+<style>
+  .typing-effect {
+    overflow: hidden;
+    border-right: .15em solid orange;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: .15em;
+    animation: 
+      typing 3.5s steps(40, end),
+      blink-caret .75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange; }
+  }
+</style>
