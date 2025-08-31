@@ -89,7 +89,7 @@ Other AI/ML and web development projects
 
 ## 📄 Resume 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1DDhaQJ0tm0jsvfdBIDS-r6gMDXSeFN4L/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1viMQaJTpnV68dGgnC2C6FPTHcIgjtq7g/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
