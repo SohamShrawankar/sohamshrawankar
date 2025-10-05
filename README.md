@@ -2,7 +2,7 @@
 
 # <span class="typing-effect">👋 Hi, I'm Soham Shrawankar</span>
 
-### 🚀 A 20-year-old developer blending AI, code, and design into real-world solutions
+### 🚀 A 21-year-old developer blending AI, code, and design into real-world solutions
 
 ---
 
