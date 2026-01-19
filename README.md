@@ -86,7 +86,6 @@ I collaborate on **AI/ML**, **Web Apps**, and **Security Projects**.
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60">
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60">
 
 </div>
 
@@ -115,20 +114,26 @@ I collaborate on **AI/ML**, **Web Apps**, and **Security Projects**.
 
 <table>
   <tr>
-    <td width="48%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sohamshrawankar&show_icons=true&theme=radical&hide_border=true">
+    <td align="center" style="padding:10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sohamshrawankar&show_icons=true&theme=radical&hide_border=true" height="180">
     </td>
-    <td width="48%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamshrawankar&theme=radical&hide_border=true&fire=FF0000&ring=FF0000">
+    <td align="center" style="padding:10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamshrawankar&theme=radical&hide_border=true&fire=FF0000&ring=FF0000" height="180">
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamshrawankar&layout=compact&theme=radical&hide_border=true" width="60%">
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamshrawankar&layout=compact&theme=radical&hide_border=true" width="55%">
     </td>
   </tr>
 </table>
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="Multiprogramming Environment">
 </div>
 
 ---
