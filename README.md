@@ -1,78 +1,155 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-090.gif" width="250">
-</p>
+<div align="center">
 
-<h1 align="center">Hey there, I'm Soham 👋</h1>
+# 👋 Hi, I'm <span style="color:#7F00FF">Soham Shrawankar</span>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;AI%2FML+Enthusiast;Tech+Explorer;Always+Learning+New+Things" />
-</p>
+### 🚀 A 21-year-old developer blending AI, design & code into real-world solutions
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="450" />
 
 ---
 
-## 🚀 About Me
-- 👨‍💻 Full-Stack Java Developer  
-- 🌱 Currently exploring **AI, ML, and Cloud**  
-- 💼 Working at **Cognizant**  
-- 🧠 Love building backend systems and smart apps  
-- 🎯 Goal: Switch to a product-based company  
+![Profile Views](https://komarev.com/ghpvc/?username=sohamshrawankar&label=Profile+Views&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/sohamshrawankar?label=Followers&style=for-the-badge)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 🎯 Current Focus
 
-### 🌐 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
+<div align="center">
 
-### ⚙ Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,python" />
-</p>
+💠 **DeepShield** – AI-powered Image Protection  
+💠 **Attendance Management System** – Smart QR-based solution  
+<br/>
 
-### ☁ Cloud & DevOps  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
+<a href="https://sohamshrawankar.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20View_My_Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## 🔥 Featured GIFs (From Cool GIF Repo)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-020.gif" width="200">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-060.gif" width="200">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-080.gif" width="200">
-</p>
+# 📚 Currently Learning
+
+<div align="center">
+
+| JavaScript & React.js | Python Optimization |
+|-----------------------|---------------------|
+| Machine Learning | UI/UX Design Principles |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Soham-Shrawankar&show_icons=true&theme=react" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Shrawankar&layout=compact&theme=react" />
-</p>
+# 🤝 Let's Collaborate
+
+<div align="center">
+
+I collaborate on **AI/ML**, **Web Apps**, and **Security Projects**.
+
+<a href="https://github.com/SohamShrawankar/Attendance_Management_System" target="_blank">
+  <img src="https://img.shields.io/badge/Attendance_System-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## 🐍 Snake Game (Profile Contribution Animation)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sohamshrawankar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/soham-shrawankar-096b39264/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://leetcode.com/u/SohamShrawankar/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"></a>
-</p>
+# 💻 Tech & Tools
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="60">
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60">
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-110.gif" width="200">
-</p>
+# 🚀 Work Philosophy
 
-<h3 align="center">Thank you for visiting! 🌟</h3>
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="260"></td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="260"></td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="380">
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="48%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sohamshrawankar&show_icons=true&theme=radical&hide_border=true">
+    </td>
+    <td width="48%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamshrawankar&theme=radical&hide_border=true&fire=FF0000&ring=FF0000">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamshrawankar&layout=compact&theme=radical&hide_border=true" width="60%">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+# 📄 Portfolio & Resume
+
+<div align="center">
+
+<a href="https://sohamshrawankar.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://drive.google.com/file/d/1viMQaJTpnV68dGgnC2C6FPTHcIgjtq7g/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <h3>✨ Thank You for Visiting!</h3>
+  <p>Always open to new opportunities & collaborations 🚀</p>
+</div>
