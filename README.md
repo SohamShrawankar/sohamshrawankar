@@ -15,13 +15,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohamshrawankar&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub trophies" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -84,24 +77,15 @@
 
 ## 💻 Tech & Tools
 
-### 🎨 Animated Tech Stack
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" alt="Python" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" alt="JavaScript" />
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" alt="React" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" alt="C++" />
   <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50" alt="VS Code" />
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" alt="Git" />
-</div>
-
-### 🛠️ Development Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" alt="HTML5" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="50" alt="CSS3" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50" alt="GitHub" />
 </div>
 
 ---
@@ -136,12 +120,13 @@
         <img src="https://github-readme-stats.vercel.app/api?username=sohamshrawankar&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
       </td>
       <td align="center" width="48%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamshrawankar&theme=radical&hide_border=true" alt="GitHub streak" />
+        <!-- GitHub Readme Streak Stats - More reliable alternative -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamshrawankar&theme=radical&hide_border=true&fire=FF0000&ring=FF0000&currStreakNum=FFFFFF" alt="GitHub streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamshrawankar&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="60%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamshrawankar&layout=compact&theme=radical&hide_border=true&exclude_repo=node_modules" alt="Top languages" width="60%" />
       </td>
     </tr>
   </table>
@@ -162,12 +147,8 @@
 
 ---
 
-## 🎨 Development Environment
-
 <div align="center">
-  <h3>✨ Multiprogramming Environment ✨</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="Multiprogramming Environment">
-  <p><em>Creating solutions across multiple platforms and technologies</em></p>
 </div>
 
 ---
