@@ -1,161 +1,78 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-090.gif" width="250">
+</p>
 
-# 👋 Hi, I'm Soham Shrawankar
+<h1 align="center">Hey there, I'm Soham 👋</h1>
 
-### 🚀 A 21-year-old developer blending AI, code, and design into real-world solutions
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="450" alt="Animated Hello">
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohamshrawankar&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sohamshrawankar?label=Followers&style=social" alt="GitHub followers" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;AI%2FML+Enthusiast;Tech+Explorer;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-  
-**DeepShield** • AI-powered security solution  
-**Attendance Management System** • QR code based attendance scanner  
-
-<a href="https://sohamshrawankar.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
+## 🚀 About Me
+- 👨‍💻 Full-Stack Java Developer  
+- 🌱 Currently exploring **AI, ML, and Cloud**  
+- 💼 Working at **Cognizant**  
+- 🧠 Love building backend systems and smart apps  
+- 🎯 Goal: Switch to a product-based company  
 
 ---
 
-## 📚 Currently Learning
+## 💻 Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">JavaScript & React.js</td>
-      <td align="center">Python Optimization</td>
-    </tr>
-    <tr>
-      <td align="center">Machine Learning</td>
-      <td align="center">UI/UX Design Principles</td>
-    </tr>
-  </table>
-</div>
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
----
+### ⚙ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,python" />
+</p>
 
-## 🤝 Let's Collaborate
-
-<div align="center">
-  Interested in: <br/>
-  <a href="https://github.com/SohamShrawankar/Attendance_Management_System" target="_blank">
-    <img src="https://img.shields.io/badge/Attendance_System-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Attendance System" />
-  </a><br/>
-  And other AI/ML & Web Development projects
-</div>
+### ☁ Cloud & DevOps  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
 
 ---
 
-## 📬 Connect With Me
-
-<div align="center">
-  <a href="mailto:sohamshrawankar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/soham-shrawankar-096b39264/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/SohamShrawankar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</div>
+## 🔥 Featured GIFs (From Cool GIF Repo)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-020.gif" width="200">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-060.gif" width="200">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-080.gif" width="200">
+</p>
 
 ---
 
-## 💻 Tech & Tools
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" alt="Python" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" alt="JavaScript" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" alt="React" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50" alt="VS Code" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" alt="Git" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" alt="HTML5" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="50" alt="CSS3" />
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50" alt="GitHub" />
-</div>
+## 📊 GitHub Stats
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Soham-Shrawankar&show_icons=true&theme=react" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Shrawankar&layout=compact&theme=react" />
+</p>
 
 ---
 
-## 🚀 Work Philosophy
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="260" alt="Action Packed">
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="260" alt="Productive Working">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400" alt="JavaScript is the Boss">
-</div>
+## 🐍 Snake Game (Profile Contribution Animation)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="48%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sohamshrawankar&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-      </td>
-      <td align="center" width="48%">
-        <!-- GitHub Readme Streak Stats - More reliable alternative -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamshrawankar&theme=radical&hide_border=true&fire=FF0000&ring=FF0000&currStreakNum=FFFFFF" alt="GitHub streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamshrawankar&layout=compact&theme=radical&hide_border=true&exclude_repo=node_modules" alt="Top languages" width="60%" />
-      </td>
-    </tr>
-  </table>
-</div>
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"></a>
+</p>
 
 ---
 
-## 📄 Portfolio & Resume
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIF-110.gif" width="200">
+</p>
 
-<div align="center">
-  <a href="https://sohamshrawankar.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://drive.google.com/file/d/1viMQaJTpnV68dGgnC2C6FPTHcIgjtq7g/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="Multiprogramming Environment">
-</div>
-
----
-
-<div align="center">
-  <h3>💫 Thank you for visiting!</h3>
-  <p>Always open to new opportunities and collaborations</p>
-</div>
-
-</div>
+<h3 align="center">Thank you for visiting! 🌟</h3>
